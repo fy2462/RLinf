@@ -1,6 +1,13 @@
 __pycache__
 .vscode
 .agents
+.claude-flow
+.swarm
+.mcp.json
+ARCHITECTURE.md
+CONTEXT.md
+ruvector.db
+.claude
 *.log
 *.idx
 *.npy
