@@ -4,6 +4,7 @@ __pycache__
 .claude-flow
 .swarm
 .mcp.json
+agentdb.rvf*
 ARCHITECTURE.md
 CONTEXT.md
 ruvector.db
