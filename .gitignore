@@ -1,5 +1,6 @@
 __pycache__
 .vscode
+.agents
 *.log
 *.idx
 *.npy
