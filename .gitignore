@@ -3,6 +3,7 @@ __pycache__
 .agents
 .claude-flow
 .swarm
+.codex
 .mcp.json
 agentdb.rvf*
 ARCHITECTURE.md
